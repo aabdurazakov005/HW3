@@ -89,8 +89,8 @@ public class Main {
         double differenceD = afterIncreaseD - yearSalaryDenis;
         double differenceK = afterIncreaseK - yearSalaryKristina;
         System.out.println("Задание №8");
-        System.out.println("Маша теперь получает " + afterIncreaseM + " рублей. Зарплата выросла на " + differenceM + " рублей.");
-        System.out.println("Денис теперь получает " + afterIncreaseD + " рублей. Зарплата выросла на " + differenceD + " рублей.");
-        System.out.println("Кристина теперь получает " + afterIncreaseK + " рублей. Зарплата выросла на " + differenceK + " рублей.");
+        System.out.println("Маша теперь получает " + afterIncreaseM + " рублей. Зарплата выросла на " + differenceM + " рублей");
+        System.out.println("Денис теперь получает " + afterIncreaseD + " рублей. Зарплата выросла на " + differenceD + " рублей");
+        System.out.println("Кристина теперь получает " + afterIncreaseK + " рублей. Зарплата выросла на " + differenceK + " рублей");
     }
 }
